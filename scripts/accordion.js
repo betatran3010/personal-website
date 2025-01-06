@@ -57,3 +57,15 @@ $("#subcontainer-clinical").on("click", function () {
         $("#down-pointing-5").addClass("hidden");
     }
 });
+
+$("#subcontainer-personal").on("click", function () {
+    if ($("#personal-content").hasClass("accessible-hidden")) {
+        $("#personal-content").removeClass("accessible-hidden");
+        $("#right-pointing-6").addClass("hidden");
+        $("#down-pointing-6").removeClass("hidden");
+    } else {
+        $("#personal-content").addClass("accessible-hidden");
+        $("#right-pointing-6").removeClass("hidden");
+        $("#down-pointing-6").addClass("hidden");
+    }
+});
