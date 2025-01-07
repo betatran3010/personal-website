@@ -81,3 +81,15 @@ $("#subcontainer-apple").on("click", function () {
         $("#down-pointing-7").addClass("hidden");
     }
 });
+
+$("#subcontainer-bowers").on("click", function () {
+    if ($("#bowers-content").hasClass("accessible-hidden")) {
+        $("#bowers-content").removeClass("accessible-hidden");
+        $("#right-pointing-8").addClass("hidden");
+        $("#down-pointing-8").removeClass("hidden");
+    } else {
+        $("#bowers-content").addClass("accessible-hidden");
+        $("#right-pointing-8").removeClass("hidden");
+        $("#down-pointing-8").addClass("hidden");
+    }
+});
