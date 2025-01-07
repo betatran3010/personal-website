@@ -69,3 +69,15 @@ $("#subcontainer-personal").on("click", function () {
         $("#down-pointing-6").addClass("hidden");
     }
 });
+
+$("#subcontainer-apple").on("click", function () {
+    if ($("#apple-content").hasClass("accessible-hidden")) {
+        $("#apple-content").removeClass("accessible-hidden");
+        $("#right-pointing-7").addClass("hidden");
+        $("#down-pointing-7").removeClass("hidden");
+    } else {
+        $("#apple-content").addClass("accessible-hidden");
+        $("#right-pointing-7").removeClass("hidden");
+        $("#down-pointing-7").addClass("hidden");
+    }
+});
