@@ -1,34 +1,8 @@
 # Project 1, Milestone 3: Design Journey
 
-[← Table of Contents](design-journey.md)
-
-
-**Replace ALL _TODOs_ with your work.** (There should be no TODOs in the final submission.)
-
-Be clear and concise in your writing. Bullets points are encouraged.
-
-Place all design journey images inside the "design-plan" folder and then link them in Markdown so that they are visible in Markdown Preview.
-
-**Everything, including images, must be visible in _Markdown: Open Preview_.** If it's not visible in the Markdown preview, then we can't grade it. We also can't give you partial credit either. **Please make sure your design journey should is easy to read for the grader;** in Markdown preview the question _and_ answer should have a blank line between them.
-
-
-## Milestone 2 Feedback Revisions
-> Explain what you revised in response to the Milestone 2 feedback (1-2 sentences)
-> If you didn't make any revisions, explain why.
-
-I didn't make any revisions because I didn't get my points deducted for any criteria.
-
 ## Information Architecture
 
-Design the information architecture for all the pages your website.
-
-You may change your homepage content based on your card sorting. If you do change the homepage content, you don't need to go back to the previous milestone design journey and update it. Instead, just include the new plan in the section below (Content Organization).
-
 ### Content Organization
-> Document your **iterations** of card sorting here.
-> You should have at least 2 iterations of card sorting.
-> Include photographic evidence of each iteration of card sorting **and** description of your thought process for each iteration.
-> Please physically sort cards; please don't do this digitally.
 
 **1) Card sorting 1**
 ![Home1](home-1.jpg)
@@ -57,11 +31,8 @@ In this second iteration of card sorting, I divide the content into 6 groups: Ho
 - "Header" and "Footer" also remains the same as the first iteration. However, instead of putting the contact information only on the "Home" page, I now include it in the Footer. This way, I can ensure consistent access to an essential type of information on each page.
 
 ### Final Content Organization
-> Which iteration of card sorting will you use for your website? (1 sentence)
 
 I will use my second iteration of card sorting for my website.
-
-> Explain how the final organization of content is appropriate for your site's audiences.
 
 Initially, I included detailed information about my research interests on the homepage to emphasize my specialization and commitment to academic pursuits. However, since my audiences—psychology professors seeking research assistants—are often busy, a streamlined homepage with just an overview (no detailed research interests) allows them to quickly assess my qualifications if they don't have time to view everything in detail.
 
@@ -71,14 +42,11 @@ Lastly, I move the contact information from just the home page to the footer so 
 
 
 ### Navigation
-> Please list the pages you will include in your website's navigation.
 
 - Home
 - Research Interests
 - Research/Internship Experience
 - Courses
-
-> Explain why the names of these pages make sense for your site's audience. (1-2 sentences)
 
 - "Home" is a standard name that signals where visitors can find a general overview about me.
 - Since I include reasons and contexts behind my interests in psycholinguistics, memory, and human-computer interaction in the second page, "Research Interests" would directly highlight these academic focuses. Audiences can understand what topics I'm passionate about and if they align with their needs.
@@ -86,15 +54,5 @@ Lastly, I move the contact information from just the home page to the footer so 
 - In the last page, I include lists of courses I take each semester so the name "Courses" would be the most appropriate and straightforward.
 
 ## References
-
-### Collaborators
-> List any persons you collaborated with on this project.
-
-### Reference Resources
-> Did you use any resources not provided by this class to help you complete this assignment?
-> List any external resources you referenced in the creation of your project. (i.e. W3Schools, StackOverflow, Mozilla, etc.)
->
-> List **all** resources you used (websites, articles, books, etc.), including generative AI.
-> Provide the URL to the resources you used and include a short description of how you used each resource.
 
 [← Table of Contents](design-journey.md)

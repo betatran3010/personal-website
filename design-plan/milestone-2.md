@@ -1,23 +1,6 @@
 # Project 1, Milestone 2: Design Journey
 
-[← Table of Contents](design-journey.md)
-
-**Replace ALL _TODOs_ with your work.** (There should be no TODOs in the final submission.)
-
-Be clear and concise in your writing. Bullets points are encouraged.
-
-Place all design journey images inside the "design-plan" folder and then link them in Markdown so that they are visible in Markdown Preview.
-
-**Everything, including images, must be visible in _Markdown: Open Preview_.** If it's not visible in the Markdown preview, then we can't grade it. We also can't give you partial credit either. **Please make sure your design journey should is easy to read for the grader;** in Markdown preview the question _and_ answer should have a blank line between them.
-
-
 ## Example Website CSS Property Analysis
-
-For each example website you identified in milestone 1:
-
-1. Include the same screenshot of the example website you included in Milestone 1.
-2. Identify 2 parts of the design that you want to analyze for CSS properties.
-3. For each part of the design, list the CSS properties for shape, color, and typography that you might use to create a similar design on your personal website.
 
 ### Example Website 1 CSS Property Analysis
 
@@ -100,9 +83,7 @@ For each example website you identified in milestone 1:
       - font-size: 12pt;
 
 
-## CSS Styling Plan
-> Pick one of the examples websites to use as inspiration to begin styling your personal website.
-> Explain why you chose the example website and how you plan to use it as inspiration for styling your personal website.
+## CSS Styling Takeaways & Planning
 
 I use <https://www.jackieeworks.com>.
 
@@ -112,16 +93,7 @@ I will adopt the high-contrast and big font size for the headings. However, I wi
 
 ## References
 
-### Collaborators
-> List any persons you collaborated with on this project.
-
-
 ### Reference Resources
-> Did you use any resources not provided by this class to help you complete this assignment?
-> Cite any external resources you referenced in the creation of your project. (i.e. W3Schools, StackOverflow, Mozilla, etc.)
->
-> List **all** resources you used (websites, articles, books, etc.), including generative AI.
-> Provide the URL to the resources you used and include a short description of how you used each resource.
 
 I used these example websites:
 
