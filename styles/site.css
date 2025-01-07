@@ -297,6 +297,11 @@ footer ul {
     border: 1px solid black;
 }
 
+.portfolio-image figure {
+    margin-left: 0;
+    margin-right: 0;
+}
+
 .phase {
     margin-top: 50px;
 }
@@ -403,6 +408,14 @@ footer ul {
 
     .experience figure {
         margin-right: 30px;
+    }
+
+    .portfolio-image figure {
+        margin-right: 30px;
+    }
+
+    .portfolio-description {
+        margin-left: 10px;
     }
 
     #x-icon {
