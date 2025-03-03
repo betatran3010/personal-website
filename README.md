@@ -28,5 +28,8 @@ After completing the course, I revisited and revised the website to mainly:
 - Add interactivity using JavaScript.
 - Add the "Portfolio" page
 
+# Design Journey
+[Design Journey](design-plan/design-journey.md)
+
 # Website Link 
 <https://betatran3010.github.io/personal-website/>
